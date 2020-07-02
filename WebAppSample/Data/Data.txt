@@ -1,0 +1,11 @@
+﻿
+Home========>Index=====>=====> OnActionExecuting 	-7/1/2020 5:41:12 PM
+Home========>Index=====>=====> OnActionExecuted 	-7/1/2020 5:41:12 PM
+Home========>Index=====>=====> OnResultExecuting 	-7/1/2020 5:41:12 PM
+-----------------------------------------Home========>Index=====>=====> OnResultExecuted 	-7/1/2020 5:41:12 PM
+-----------------------------------------
+Home========>Index=====>=====> OnActionExecuting 	-7/1/2020 5:44:39 PM
+Home========>Index=====>=====> OnActionExecuted 	-7/1/2020 5:44:39 PM
+Home========>Index=====>=====> OnResultExecuting 	-7/1/2020 5:44:39 PM
+-----------------------------------------Home========>Index=====>=====> OnResultExecuted 	-7/1/2020 5:44:39 PM
+-----------------------------------------
